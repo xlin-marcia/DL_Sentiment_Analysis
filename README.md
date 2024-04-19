@@ -12,7 +12,7 @@ The dataset utilized in this project is the "IMDB Movie Review Dataset," which c
 
 To tackle the sentiment analysis task, the following machine learning algorithms and techniques were employed:
 
-    - Recurrent Neural Networks (RNN): Utilized for their efficacy in processing sequences of text by capturing the contextual relationships in sentences.
-    - Long Short-Term Memory (LSTM): A specific type of RNN used to avoid the long-term dependency problem, allowing the model to learn and remember over longer sequences.
-    - Transfer Learning: Leveraging pre-trained models to enhance the performance and training efficiency of our LSTM model.
-    - BERT Model
+- Recurrent Neural Networks (RNN): Utilized for their efficacy in processing sequences of text by capturing the contextual relationships in sentences.
+- Long Short-Term Memory (LSTM): A specific type of RNN used to avoid the long-term dependency problem, allowing the model to learn and remember over longer sequences.
+- Transfer Learning: Leveraging pre-trained models to enhance the performance and training efficiency of our LSTM model.
+- BERT Model
