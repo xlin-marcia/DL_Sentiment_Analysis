@@ -16,3 +16,5 @@ To tackle the sentiment analysis task, the following machine learning algorithms
 - Long Short-Term Memory (LSTM): A specific type of RNN used to avoid the long-term dependency problem, allowing the model to learn and remember over longer sequences.
 - Transfer Learning: Leveraging pre-trained models to enhance the performance and training efficiency of our LSTM model.
 - BERT Model
+
+Please contact me for the model output and dataset access!
